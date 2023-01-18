@@ -137,4 +137,4 @@ cover.html
 ![OUTPUT](./valid.png)
 
 ## Result:
-Write your result
+The Program for designing book cover page using HTML and CSS is Executed Successfully.
